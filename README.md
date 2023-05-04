@@ -1,2 +1,2 @@
-# SendSMMS
+# SendSMS
 Envoie des SMS
